@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+This is a place for me to share my thoughts on various topics, predominantly ML-related (for now). Feedback is welcome (if you think I’m wrong, tell me why!)
 
 ### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+You can reach me on Twitter at @KleistLeo
